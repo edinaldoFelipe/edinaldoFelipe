@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @edinaldoFelipe
+- 👀 I’m interested in New Opportunities
+- 🌱 I’m currently learning PHP, NODE, REACT
