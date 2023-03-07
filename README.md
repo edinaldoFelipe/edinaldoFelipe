@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @edinaldoFelipe
-- 👀 I’m interested in New Opportunities
-- 🌱 I’m currently learning PHP, NODE, REACT, FLUTTER
+- I’m @edinaldoFelipe
+- I’m interested in New Challenges
+- I'm working with Node, Vue, PHP, Laravel, Postgress and Mysql
+- I’m currently studying AI
